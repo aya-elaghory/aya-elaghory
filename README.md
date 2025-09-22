@@ -29,16 +29,20 @@
 
 ---
 
-## 🌐 Contact Me
-<p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/aya-elaghory-aa51a9376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="ayah90421@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/Aya Elaghory/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/YOUR_INSTAGRAM](https://x.com/aya_elaghory?s=21)" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter -E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/aya-elghory">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/aya-elaghory">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 

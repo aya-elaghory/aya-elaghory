@@ -29,12 +29,20 @@
 
 ---
 
+
+
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Aya Elaghory/" target="_blank">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="https://twitter.com/aya-elaghory" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/Aya Elaghory/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/aya-elaghory" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
+
 ---
 
 ⭐️ From [Aya Elaghory](https://github.com/aya-elaghory)
